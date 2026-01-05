@@ -1,0 +1,11 @@
+header{
+    background-color: var(--brackground-tertiary-color);
+    width: 100%;
+    height: 138px;
+}
+.logo{
+    display: inline-block;
+    width: 68px;
+    height: 64;
+    margin: 37px 0 0 48px;
+}
